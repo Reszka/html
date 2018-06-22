@@ -1,2 +1,0 @@
-# html
-Curses about HTML
